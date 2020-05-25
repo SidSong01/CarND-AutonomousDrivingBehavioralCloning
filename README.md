@@ -5,7 +5,7 @@ Note: This project makes use of  [Udacity Driving Simulator](https://github.com/
 
 [//]: # (Image References)
 
-<div align=center>![image1]: ./examples/model_architecture.png
+[image1]: ./examples/model_architecture.png
 [image2]: ./examples/nvidia-architecture.png "NVIDIA Architecture"
 [image3]: ./examples/original.jpg "Original Image"
 [image4]: ./examples/flipped.jpg "Flipped Image"
@@ -85,7 +85,7 @@ Will run the video at 48 FPS. The default FPS is 60.
 ## Network Architecture
 
 The neural network architecture used for this project is a known self-driving car model from [NVIDIA](https://devblogs.nvidia.com/deep-learning-self-driving-cars/).
-![alt text][image2]
+<div align=center>![alt text][image2]
 
 The detialed imformation for the network and the input/output shape for each layer are shown.
 ![alt text][image1]
