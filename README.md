@@ -85,7 +85,7 @@ Will run the video at 48 FPS. The default FPS is 60.
 ## Network Architecture
 
 The neural network architecture used for this project is a known self-driving car model from [NVIDIA](https://devblogs.nvidia.com/deep-learning-self-driving-cars/).
-<div align=center>![alt text][image2]
+![alt text][image2]
 
 The detialed imformation for the network and the input/output shape for each layer are shown.
 ![alt text][image1]
