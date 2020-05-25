@@ -122,4 +122,5 @@ The model contains three dropout layers in order to reduce overfitting.
 ## Result
 
 The final video is named as run1.avi. It has performed well to me.
+
 ![alt text][image8]
