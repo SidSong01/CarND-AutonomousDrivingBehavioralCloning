@@ -29,7 +29,7 @@ The five files for this project are:
 * drive.py (script to drive the car - feel free to modify this file)
 * model.h5 (a trained Keras model)
 * a report writeup file (u are reading it)
-* video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)
+* run1.avi (a video recording of your vehicle driving autonomously around the track for at least one full lap)
 
 In this project, I used what I've learned about deep neural networks and convolutional neural networks to clone driving behavior. I trained, validatde and tested a model using Keras. The model will output a steering angle to an autonomous vehicle.
 
