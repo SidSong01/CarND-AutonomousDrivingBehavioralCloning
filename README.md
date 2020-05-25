@@ -5,7 +5,7 @@ Note: This project makes use of  [Udacity Driving Simulator](https://github.com/
 
 [//]: # (Image References)
 
-[image1]: ./examples/model_architecture.png
+<div align=center>![image1]: ./examples/model_architecture.png
 [image2]: ./examples/nvidia-architecture.png "NVIDIA Architecture"
 [image3]: ./examples/original.jpg "Original Image"
 [image4]: ./examples/flipped.jpg "Flipped Image"
