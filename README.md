@@ -2,6 +2,7 @@
 ---
 
 Note: This project makes use of  [Udacity Driving Simulator](https://github.com/udacity/self-driving-car-sim) and Udacity Workspace.
+Training Data come from Udacity as well. Or u can collect your own data set through the "Training Model" in the simulator.
 
 [//]: # (Image References)
 
